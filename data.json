@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "imageUrl": "https://randomuser.me/api/portraits/men/1.jpg",
+    "firstName": "Anjana",
+    "lastName": "Sivadasan",
+    "email": "anjana@gmail.com",
+    "contactNumber": "+91-9876543210",
+    "age": 25,
+    "dob": "1999-05-12",
+    "salary": 45000,
+    "address": "Kochi, Kerala, India"
+  },
+  {
+    "id": 2,
+    "imageUrl": "https://randomuser.me/api/portraits/men/2.jpg",
+    "firstName": "Rahul",
+    "lastName": "Menon",
+    "email": "rahul@gmail.com",
+    "contactNumber": "+91-9123456789",
+    "age": 28,
+    "dob": "1997-08-22",
+    "salary": 52000,
+    "address": "Trivandrum, Kerala, India"
+  },
+  {
+    "id": 3,
+    "imageUrl": "https://randomuser.me/api/portraits/women/3.jpg",
+    "firstName": "Sneha",
+    "lastName": "Nair",
+    "email": "sneha@gmail.com",
+    "contactNumber": "+91-9988776655",
+    "age": 24,
+    "dob": "2001-02-15",
+    "salary": 40000,
+    "address": "Calicut, Kerala, India"
+  },
+  {
+    "id": 4,
+    "imageUrl": "https://randomuser.me/api/portraits/men/4.jpg",
+    "firstName": "Arjun",
+    "lastName": "Krishnan",
+    "email": "arjun@gmail.com",
+    "contactNumber": "+91-8899776655",
+    "age": 30,
+    "dob": "1995-03-10",
+    "salary": 60000,
+    "address": "Thrissur, Kerala, India"
+  },
+  {
+    "id": 5,
+    "imageUrl": "https://randomuser.me/api/portraits/women/5.jpg",
+    "firstName": "Meera",
+    "lastName": "Das",
+    "email": "meera@gmail.com",
+    "contactNumber": "+91-7766554433",
+    "age": 27,
+    "dob": "1998-07-19",
+    "salary": 48000,
+    "address": "Alappuzha, Kerala, India"
+  },
+  {
+    "id": 6,
+    "imageUrl": "https://randomuser.me/api/portraits/men/6.jpg",
+    "firstName": "Vishnu",
+    "lastName": "Prasad",
+    "email": "vishnu@gmail.com",
+    "contactNumber": "+91-6655443322",
+    "age": 26,
+    "dob": "1999-11-05",
+    "salary": 47000,
+    "address": "Palakkad, Kerala, India"
+  },
+  {
+    "id": 7,
+    "imageUrl": "https://randomuser.me/api/portraits/women/7.jpg",
+    "firstName": "Aiswarya",
+    "lastName": "Pillai",
+    "email": "aiswarya@gmail.com",
+    "contactNumber": "+91-5544332211",
+    "age": 29,
+    "dob": "1996-01-25",
+    "salary": 55000,
+    "address": "Kollam, Kerala, India"
+  },
+  {
+    "id": 8,
+    "imageUrl": "https://randomuser.me/api/portraits/men/8.jpg",
+    "firstName": "Nikhil",
+    "lastName": "Varma",
+    "email": "nikhil@gmail.com",
+    "contactNumber": "+91-4433221100",
+    "age": 31,
+    "dob": "1994-09-14",
+    "salary": 65000,
+    "address": "Kannur, Kerala, India"
+  },
+  {
+    "id": 9,
+    "imageUrl": "https://randomuser.me/api/portraits/women/9.jpg",
+    "firstName": "Divya",
+    "lastName": "Ramesh",
+    "email": "divya@gmail.com",
+    "contactNumber": "+91-3322110099",
+    "age": 23,
+    "dob": "2002-04-30",
+    "salary": 38000,
+    "address": "Kasaragod, Kerala, India"
+  },
+  {
+    "id": 10,
+    "imageUrl": "https://randomuser.me/api/portraits/men/10.jpg",
+    "firstName": "Suresh",
+    "lastName": "Kumar",
+    "email": "suresh@gmail.com",
+    "contactNumber": "+91-2211009988",
+    "age": 35,
+    "dob": "1989-12-18",
+    "salary": 75000,
+    "address": "Ernakulam, Kerala, India"
+  }
+]
